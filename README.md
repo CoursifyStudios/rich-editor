@@ -11,7 +11,7 @@ In our quest to find the ideal text editor for Karasu LMS, we encountered variou
 
 Due to the nature of Lexical being in beta, we ran into multiple undocumented edge cases. This repository is a demonstration of a complex rich text editor configuration that can be achieved using Lexical.
 
-If you are looking for a simple text editor example using Lexical, see this [https://github.com/coursifystudios/simple-editor](simple editor).
+If you are looking for a simple text editor example using Lexical, see this [simple editor example.](https://github.com/coursifystudios/simple-editor)
 
 ## Features
 - Github flavored markdown support
